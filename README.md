@@ -20,6 +20,10 @@ One by one. Let's go.
 
 - [ ] operators_and_methods.ipynb
 
+- [ ] two_pointers.ipynb
+
+- [ ] sliding_window.ipynb
+
 - [ ] strings.ipynb
 
 - [ ] stacks_queues.ipynb
@@ -30,11 +34,7 @@ One by one. Let's go.
 
 - [ ] trees.ipynb
 
-- [ ] tries.ipynb
-
-- [ ] graphs.ipynb
-
-- [ ] linked_lists.ipynb
+- [ ] big_o_time_space.ipynb
 
 - [ ] binary_search.ipynb
 
@@ -42,25 +42,25 @@ One by one. Let's go.
 
 - [ ] dfs.ipynb
 
+- [ ] bit_manipulation.ipynb
+
+- [ ] dynamic_programming.ipynb
+
+- [ ] recursion.ipynb
+
+- [ ] tries.ipynb
+
+- [ ] graphs.ipynb
+
+- [ ] linked_lists.ipynb
+
 - [ ] merge_sort.ipynb
 
 - [ ] quick_sort.ipynb
 
 - [ ] sorts.ipynb
 
-- [ ] bit_manipulation.ipynb
-
 - [ ] memory.ipynb
-
-- [ ] recursion.ipynb
-
-- [ ] dynamic_programming.ipynb
-
-- [ ] big_o_time_space.ipynb
-
-- [ ] two_pointers.ipynb
-
-- [ ] sliding_window.ipynb
 
 - [ ] intervals.ipynb
 
